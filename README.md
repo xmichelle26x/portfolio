@@ -6,5 +6,5 @@
  
 </p>
 
-[![Site preview](/public/social-image.png)](https://xmichelle26x.github.io/portfolio)
+[![Site preview](/public/social-image.png)](https://github.com/xmichelle26x/portfolio)
 

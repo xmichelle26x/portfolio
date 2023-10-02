@@ -47,7 +47,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Mishell Angulo, a graduate from Escuela Superior Politécnica del Litoral at Ecuador. I am a Computer science engineer with experience in academic, personal and professional experience. I love learning new tools everyday and to ensure software performance.",
-  resume: "https://drive.google.com/file/d/1TWUkLXMxaE-AdCdrUiWKjnqOYRSAguAv/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1D3j9K3WMt3QN4mslrcI3T_wOwJpYWbrF/view?usp=sharing",
 };
 
 
@@ -55,7 +55,7 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "xmichelle26x",
-  reposLength: 4,
+  reposLength: 6,
   specificRepos: [],
 };
 
@@ -66,8 +66,8 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 60 },
-    { name: "SQL", value: 60 },
+    { name: "Python", value: 40 },
+    { name: "SQL", value: 70 },
     { name: "JavaScript", value: 70 },
     { name: "React", value: 60 },
     { name: "HTML/CSS", value: 75 },

@@ -43,11 +43,11 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/mishell.jpg"),
+  imageLink: require("../editable-stuff/me.jpeg"),
   imageSize: 375,
   message:
     "My name is Mishell Angulo, a graduate from Escuela Superior Politécnica del Litoral at Ecuador. I am a Computer science engineer with experience in academic, personal and professional experience. I love learning new tools everyday and to ensure software performance.",
-  resume: "https://drive.google.com/file/d/1D3j9K3WMt3QN4mslrcI3T_wOwJpYWbrF/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1iTbKiARkil0DMLiTPElCLD2pT_ZN04JW/view?usp=sharing",
 };
 
 
@@ -66,18 +66,18 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 40 },
-    { name: "SQL", value: 70 },
+    { name: "Python", value: 50 },
+    { name: "SQL", value: 80 },
     { name: "JavaScript", value: 70 },
-    { name: "React", value: 60 },
+    { name: "React", value: 70 },
     { name: "HTML/CSS", value: 75 },
   ],
   softSkills: [
-    { name: "Goal-Oriented", value: 80 },
-    { name: "Team worker", value: 90 },
-    { name: "Communication", value: 70 },
-    { name: "Adaptability", value: 70 },
-    { name: "Research", value: 75 },
+    { name: "Goal-Oriented", value: 100 },
+    { name: "Team worker", value: 100 },
+    { name: "Communication", value: 100 },
+    { name: "Adaptability", value: 80 },
+    { name: "Research", value: 80 },
   ],
 };
 
@@ -86,7 +86,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for full-time Software Engineering or Frontend Developer opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "I'm currently looking for full-time Software Engineering opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "mishell_angulo@hotmail.com",
 };
 
